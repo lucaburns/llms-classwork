@@ -1,0 +1,13 @@
+[project]
+name = "logit-lens"
+version = "0.1.0"
+description = "Simple logit lens implementation for Hugging Face models"
+requires-python = ">=3.9"
+
+dependencies = [
+    "torch",
+    "transformers",
+    "matplotlib",
+    "numpy",
+    "tuned-lens",
+]
