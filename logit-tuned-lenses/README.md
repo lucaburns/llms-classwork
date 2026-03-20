@@ -14,7 +14,7 @@ We find the tokens with the top 5 scores at each position in each layer for the 
 
 ## How to Run the Code
 
-First, run
+First, in the `logit-tuned-lenses` directory, run
 
 ```bash
 uv sync
