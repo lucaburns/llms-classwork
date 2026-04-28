@@ -5,7 +5,7 @@ https://github.com/bguevel/LLM1.
 
 I implemented the following in PyTorch:
 
-- **Python files: `0/luca-gpt1.py` and `0/luca-gpt1-untrained.py`**
+- **Python files: `luca-gpt1.py` and `luca-gpt1-untrained.py`**
 - **Jupyter notebooks: `luca-correct.ipynb` and `luca-gpt1-untrained.py`**
   - Single-head autoregressive Transformer
   - Trained on **Project Gutenberg — _Frankenstein_**
@@ -98,4 +98,3 @@ down internal impossibilities equally cologne agitated creaking vengeance outstr
 The following plots show training loss for luca-gpt1 (one epoch):
 
 ![Loss vs Epochs for luca-gpt1](luca_loss_plot.png)
-
