@@ -43,18 +43,18 @@ uv run python run_tuned_lens.py \
 ## Logit Lens Visualizations
 
 ### Line Plot
-![Logit Lens Line Plot](images/logit_lineplot.png)
+![Logit Lens Line Plot](docs/figures/logit_lineplot.png)
 
 ### Heatmap
-![Logit Lens Heatmap](images/logit_heatmap.png)
+![Logit Lens Heatmap](docs/figures/logit_heatmap.png)
 
 ## Tuned Lens Visualizations
 
 ### Line Plot
-![Tuned Lens Line Plot](images/tuned_lineplot.png)
+![Tuned Lens Line Plot](docs/figures/tuned_lineplot.png)
 
 ### Heatmap
-![Tuned Lens Heatmap](images/tuned_heatmap.png)
+![Tuned Lens Heatmap](docs/figures/tuned_heatmap.png)
 
 ## Results
 
